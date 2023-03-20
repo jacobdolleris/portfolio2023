@@ -181,13 +181,14 @@ nav a {
   display: flex;
   text-align: center;
   padding: 5% 10%;
+  justify-content: center;
 }
 
 .cards{
-  width: 33%;
+  width: 25%;
   border: 1px solid white;
   border-radius: 5px;
-  margin: 0 10px;
+  margin: 0 50px;
 }
 .cards img{
   width: 100%;
