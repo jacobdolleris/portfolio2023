@@ -6,7 +6,7 @@
   <main>
   <div class="presentation">
     <h1>Hi, im Jacob Dolleris</h1><br>
-    <h2 class="h2pre">Web-Developerd</h2>
+    <h2 class="h2pre">Web-Developer</h2>
     
     <img src="../components/pictures/IMG_2281.jpg" class="profilePic">
     <div>
@@ -27,8 +27,7 @@
     
     </div>
     <div class="intro2"><h3>A short bio about me</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad laborum voluptas totam, molestiae itaque aspernatur rem ipsam fugit repellat odio!
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad laborum voluptas totam, molestiae itaque aspernatur rem ipsam fugit repellat odio!
+      <p>Hi there, I'm a web developer and my passion is building websites that are visually appealing and highly functional. I have extensive knowledge of various programming languages such as HTML, CSS, and JavaScript, as well as frameworks such as React, Angular, and Vue. My work involves creating website layouts, writing clean and efficient code, and testing website functionality to ensure that it meets the requirements of my clients or organization.
       </p>
     </div>
 

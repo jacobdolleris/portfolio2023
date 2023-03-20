@@ -180,7 +180,7 @@ nav a {
 .presentation section{
   display: flex;
   text-align: center;
-  padding: 10% 10%;
+  padding: 5% 10%;
 }
 
 .cards{
@@ -206,7 +206,7 @@ nav a {
 /* form animation starts */
 .form {
   background: #fff;
-  box-shadow: 0 15px 30px 0 var(--link-aktivt);
+  box-shadow: 0 15px 30px 0 var(--link);
   border-radius: 5px;
   max-width: 480px;
   margin-top: 5%;
