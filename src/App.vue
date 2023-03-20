@@ -51,7 +51,7 @@ nav {
   font-size: 20px;
   text-align: center;
   background: transparent;
-  box-shadow: 0px 1px 0px 0px var(--link-aktivt);
+  box-shadow: 0px 2px 0px 0px var(--link);
   font-size: 25px;
 
 }
@@ -138,7 +138,7 @@ nav a {
 
 .intro2{
   width: 40%;
-  padding-top:100px ;
+  padding-top:50px ;
   float: right;
 }
 .intro2 h3{
