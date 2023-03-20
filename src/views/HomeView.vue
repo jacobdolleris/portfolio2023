@@ -6,7 +6,7 @@
   <main>
   <div class="presentation">
     <h1>Hi, im Jacob Dolleris</h1><br>
-    <h2 class="h2pre">Web-Developer</h2>
+    <h2 class="h2pre">Web-Developerd</h2>
     
     <img src="../components/pictures/IMG_2281.jpg" class="profilePic">
     <div>
